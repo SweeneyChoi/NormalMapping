@@ -48,6 +48,11 @@ mat3 TBN = mat3(T, B, N)
 
 - 法线贴图
 
+![法线贴图](https://github.com/SweeneyChoi/NormalMapping/blob/master/images/normalmapping1.png)
+
+- 给复杂模型添加法线贴图
+
+![复杂模型](https://github.com/SweeneyChoi/NormalMapping/blob/master/images/normalmapping2.png)
 
 
 
